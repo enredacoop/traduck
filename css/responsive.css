@@ -1,0 +1,52 @@
+/*DON'T MAKE ANY CHANGE IN THIS FILE UNLESS YOU WANT TO MAKE CHANGE IN DESIGN FOR DIFFERENT DEVICES*/
+@media (max-width: 990px){
+	#contact-form-box {
+		height:796px !important;
+	}
+}
+@media (max-width: 775px) {
+	.top-search form.form-inline {
+		padding:0% 30%;
+	}
+}
+@media (max-width: 782px) {
+	.top-search input[type="search"] {
+		width:100%;
+		margin-bottom:10px;
+	}
+}
+@media (max-width: 320px){
+	.navbar-inverse .navbar-brand {
+		font-size: 24px;
+	}
+}
+@media (max-width: 920px) {
+	header section#header-text {
+		padding:17%;
+	}
+}
+@media (min-width: 361px) and (max-width: 1007px) {
+	.single-project figure figcaption {
+		display:none !important;
+	}
+}
+@media (max-width: 1167px){
+	#more-projects button {
+		margin-top: 10px;
+	}
+}
+@media (max-width: 482px){
+	#service-detail {
+		height:20% !important;
+	}
+}
+@media (max-width :760px){
+	#social .social-icon {
+		margin:1%;
+	}
+}
+@media (min-width:768px) {
+	.single-project img {
+		height:18em;
+	}
+}

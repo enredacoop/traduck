@@ -1,0 +1,265 @@
+/* 
+===============
+GENERAL SETTING
+===============
+*/
+
+body {
+	color: black;
+}
+h1,h2,h3,h4,h5,h6 {
+	color:black;
+}
+
+/* 
+===============
+	NAVBAR
+===============
+*/
+
+.logo-color-span {
+	color: #2dcc70;
+}	
+.navbar-inverse {
+	background-color:transparent !important;
+	color:white;
+	border-bottom: 1px solid rgba(128, 128, 128, 0.45);
+}
+.navbar-inverse .navbar-brand {
+	color:white;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color:white !important;
+}
+.nav.navbar-nav li a:hover,ul.nav.navbar-nav li:hover {
+	color:#2dcc70 !important;
+}
+/* 
+===============
+	BUTTONS
+===============
+*/
+
+.colored-button {
+	background-color:#2dcc70;
+	border:1px solid transparent;
+}
+.hovered-colored-button:hover {
+	background-color:#2dcc70;
+}
+
+/* 
+=================
+EVEN ODD SECTIONS
+=================
+*/
+
+.even-section {
+	background-color:#F1F2F4;
+}
+.odd-section {
+	background-color:white;
+}
+
+/* 
+=================
+   OWL CAROUSEL
+=================
+*/
+
+.owl-page {
+	background-color:#2dcc70;
+}
+.owl-page.active {
+    background: forestgreen;
+}
+
+/* 
+=================
+	HOME PAGE
+=================
+*/
+
+#more-projects {
+	background-color:#2dcc70;
+}
+#more-projects p {
+	color:white;
+}
+.single-project figcaption {
+	background-color:white;
+}
+#more-projects button {
+	border:2px solid white;
+}
+#more-projects button:hover {
+    background: #146134 !important;
+}
+/* 
+===========================
+ABOUT US PAGE SKILL SECTION
+===========================
+*/
+
+.skill-bar div {
+	background-color:#2dcc70;
+}
+.skill-bar {
+    background: lightgrey;
+}
+/* WHY SECTION */
+#why-section ul li i {
+	color: #2dcc70 !important;
+}
+
+/* 
+=================
+   SERVICE PAGE
+=================
+*/
+
+.single-step:hover {
+	background-color:#f1f2f4;
+}
+.package button.transparent-button {
+	border: 2px solid black;
+	color:black;
+}
+.package button.transparent-button:hover {
+    border: 2px solid transparent;
+	color:white;
+}
+.package button.hovered-transparent-button {
+    border: 2px solid transparent;
+	color:white;
+}
+.package button.hovered-transparent-button:hover {
+    border: 2px solid black;
+	color:black;
+}
+/* PRICING SECTION */
+.package h3 {
+	color:black;
+}
+.package {
+	color:black;
+	background-color:white;
+}
+.package .exclusive-price {
+	background-color:#2dcc70 !important;
+}
+.package .price {
+	background-color:#22273F;
+}
+.price h2 {
+	color:white;
+}
+
+/* 
+==================
+RIGHT SIDEBAR PAGE
+==================
+*/
+
+.recent-posts ul li a:hover, .categories ul li a:hover {
+    color: #2dcc70;
+}
+.categories a:hover {
+	color: #2dcc70;
+}
+blockquote {
+	border-left-color:#2dcc70;
+}
+/* 
+==================
+  PORTFOLIO PAGE
+==================
+*/
+
+#controls .active {
+    background: #2dcc70;
+	color:white;
+}
+
+/* 
+==================
+  CONTACT PAGE
+==================
+*/
+#contact-form-section {
+	background-color: #2dcc70;
+}
+#contact-form-box form label {
+	color:black;
+}
+#contact-form-box {
+	background-color:white;
+}
+#form-left-text p {
+	color:white;
+}
+input[type="submit"] {
+	background-color: black;
+	color:white;
+	transition:background-color 0.2s ease-in-out;
+}
+input[type="submit"]:hover {
+    background: #146134;
+}
+
+/* 
+===================
+  TOP SEARCH FORM	
+===================
+*/
+
+.top-search input[type="submit"] {
+	background-color:#2dcc70;
+	color:white;
+}
+.top-search input[type="submit"]:hover {
+	background-color:#146134;
+}
+/* 
+===================
+	   FOOTER
+===================
+*/
+footer {
+	background-color:#1C1C1C !important;
+	color:#C8C8C8;
+}
+footer a p:hover {
+    color:#2dcc70;
+}
+footer p {
+	color:#C8C8C8;
+}
+footer #footer2 {
+	background-color:#222222;
+}
+footer #tags .tag a {
+    color: white;
+}
+footer a:hover {
+	color:#2dcc70 !important;
+}
+footer #tags .tag {
+	background-color:#222222;
+}
+footer .widget-title {
+	color:#dcdcdc;
+}
+footer #footer-logo {
+	color:white !important;
+}
+.news-heading {
+	color:white;
+}
+#social .social-icon:hover {
+	background-color:#2dcc70;
+}
+#social .social-icon {
+	color:white;
+	border:1px solid white;
+}
