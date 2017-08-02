@@ -842,3 +842,7 @@ input[type="submit"] {
 	width:20%;
 	border-radius:0px;
 }
+
+.navbar-brand img {
+	    margin-top: -20px;
+}
