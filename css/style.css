@@ -846,3 +846,7 @@ input[type="submit"] {
 .navbar-brand img {
 	    margin-top: -20px;
 }
+
+#contact {
+    background-color: #2dcc70;
+}
