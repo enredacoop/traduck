@@ -463,16 +463,17 @@ COLORED BORDERS
 	max-height:205px;
 	overflow: hidden;
 	border:1px solid rgba(0,0,0,0.06);
-	padding:35px;
+	padding:20px;
 	cursor:pointer;
 	transition:all 0.5s ease-in-out;
+	text-align: center;
 }
 .single-feature:hover {
 	border:1px solid black;
 	box-shadow:1px 1px 15px lightgrey;
 }
 .single-feature i {
-	font-size:25px;
+	font-size:35px;
 }
 .features {
 	padding-top:60px;
